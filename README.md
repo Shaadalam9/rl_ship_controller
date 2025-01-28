@@ -26,7 +26,7 @@ The project has been setup with a docker file that can be used to build the dock
 Clone the repository to your system
 
 ```commandline 
-git clone https://github.com/MarineAutonomy/Deep-Reinforcement-Learning-Based-Control-for-Ship-Navigation.git
+git clone https://github.com/Shaadalam9/rl_ship_controller.git
 ```
 
 and cd into the src folder. The prompt on the terminal should look as ```.../DQN-ASV-path-follow/src$```
